@@ -98,7 +98,7 @@ def print_product(num1, num2):
 
 
 def repeat_string(repeat_text, num):
-    """Creats a single string that takes a string and an integer 
+    """Creates a single string that takes a string and an integer
     and prints the string that many times"""
     #create an empty string
     end_string = ""
